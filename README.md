@@ -17,7 +17,7 @@
   <img aling ="center" alt= "Jeff" height= "30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img aling ="center" alt= "Jeff" height= "30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
   </div>
-  ##
+
   <div> 
  <a href= "https://wa.me/5511984198044"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   <a href = "jeffemiura@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
